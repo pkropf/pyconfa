@@ -1,0 +1,79 @@
+I am happy to inform you that your request for PyCon financial aid has been approved. Your aid award totals US$%(total_aid)s which includes US$%(registration)s for registration costs, up to US$%(hotel_cost)s for hotel costs and up to US$%(travel_cost)s for travel costs.
+
+Please read this message carefully for details and instructions; if you fail to follow the instructions, we may NOT be able to provide registration or reimbursements.
+
+Please reply to this message by January 22, 2013 and indicate that you accept or decline the offer. If you are unable to use the funding offered, we may be able to reallocate those funds to other applicants, so a timely response is appreciated. If I do not hear from you by January 22, 2013, I will assume that you are no longer interested in accepting the award and will reapportion the funds.
+
+All the requests for financial aid exceeded the available funds by a huge margin. There was a record number of people requesting aid this year and as per our financial aid policy, we strive to assist the most people possible. This results in most people receiving less than requested. I wish this wasn't true but unfortunately it is.
+
+I would like to thank everyone who applied and then scaled down their minimum request -- a number of people cut back and it was those reductions that have made it possible for us to fund basically all applications this year.  Truly, this highlights just what a great community we have coming to PyCon.  Thank you all for helping us in this process!
+
+
+Reasons for Partial Funding
+===========================
+
+Request amounts were revised in the following ways:
+
+* All hotel rooms will be shared. By sharing hotel rooms, we are able to double the number of people we can help stay at PyCon.
+
+Please note that if you were not granted hotel room shares and are paying for the hotel yourself, to get the conference rate at the hotel, you must use the PyCon housing bureau to make your reservations (see <http://us.pycon.org/> for details and links).
+
+* A maximum per person had to be imposed.  If any of the other applicants decline their funding, we may be able to offer you more.
+
+* The minimal per-person incremental cost of attendance was substituted for the registration fee.  In other words, fixed costs were not considered -- this only affects the value of your free registration and will not impact the amount you'll actually be reimbursed.
+
+In many cases, however, partial funding occurred simply because we did not have sufficient funds to allocate the full request amount to every accepted applicant.
+
+
+Registration
+============
+
+We will provide you with a free or reduced cost registration (depending on your award), rather than reimburse you for a paid registration. If you have already registered and paid, please email <pycon-aid@python.org> to arrange a refund.
+
+If your registration award is less than the $100 early bird student rate, you will be asked to pay for the remainder.
+
+
+Hotel
+=====
+
+As a part of your request, you may have asked for aid for hotel expenses. The hotel awards are a dollar amount that will be applied toward your hotel room. If you received less than the cost to cover your stay, you will have to pay for the remainder yourself at a cost of $82 per day. This is per person for a shared room. This amount covers the room only, no additional hotel charges will be covered by this award.
+
+Once you accept the award, you will be contacted by the conference registrar to arrange for your hotel stay.
+
+
+Travel
+======
+
+Travel aid will be awarded as grants. The grants will be awarded at PyCon. If you're receiving a travel grant, you'll receive a second email with the details on when you can pick up your grant.
+
+
+Tutorials
+=========
+
+Due to budget constraints, there are no direct tutorial awards this year. If you are interested in attending a tutorial, there are a limited number of slots that will be made available for financial aid recipients in each tutorial for a cost of $50 per tutorial. If you are interested in signing up for any tutorials, please send an email to pycon-aid@python.org with the name of the tutorial(s) and you will be contacted on how to proceed.
+
+
+Helping Out
+===========
+
+PyCon will needs session chairs, session runners, registration desk staffers and other volunteers during the conference and sprints and we'd appreciate a helping hand! An additional message will be sent out closer to the start of the conference with the details on how to volunteer.
+
+In the longer term, please also consider volunteering with the PSF:
+
+http://www.python.org/psf/volunteer/
+
+
+Speaking
+========
+
+I encourage you to give a lightning talk and/or a presentation in open space. PyCon is such a highly regarded and successful conference because of the involvement of the attendees. Learning from others, talking about ideas and generally getting together with people with similar interests is part of the PyCon experience. Help make this the best year we've ever had!
+
+
+Feel free to contact us at <pycon-aid@python.org> if you have any questions and I'll see you at PyCon!
+
+
+- Peter
+
+--
+Peter Kropf
+PyCon 2013 Financial Aid Coordinator
