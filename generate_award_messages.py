@@ -62,7 +62,7 @@ def generate_fields(award):
     award['registration']   = Decimal(award['registration award'])
     award['hotel_cost']     = Decimal(award['hotel award'])
     award['travel_cost']    = Decimal(award['travel award'])
-    award['total_aid']      = award['registration'] + award['hotel_cost'] + award['travel_cost']
+    award['total_aid']      = Decimal(int(award['registration'] + award['hotel_cost'] + award['travel_cost']))
     return award
 
 
@@ -100,7 +100,7 @@ if __name__ == '__main__':
 
         #print 'generating award', 'for', award['first name'], award['last name']
         if options.files:
-            print 'generating award file for', award['first name'], award['last name'], ' - reg:', award['registration award'], 'hotel:', award['hotel award'], 'travel:', award['travel award']
+            print 'generating award file for', award['first name'], award['last name'], ' - total aid:', award['total_aid'], 'reg:', award['registration award'], 'hotel:', award['hotel award'], 'travel:', award['travel award']
             generate_award_files(award, body)
 
         elif options.gmail_user and options.gmail_password:

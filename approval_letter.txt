@@ -1,4 +1,8 @@
-I am happy to inform you that your request for PyCon financial aid has been approved. Your aid award totals US$%(total_aid)s which includes US$%(registration)s for registration costs, up to US$%(hotel_cost)s for hotel costs and up to US$%(travel_cost)s for travel costs.
+I am happy to inform you that your request for PyCon financial aid has been approved. Your aid grant total is US$%(total_aid)s. It is broken down as:
+
+Registration: US$%(registration)s
+Hotel: US$%(hotel_cost)s
+Travel: US$%(travel_cost)s
 
 Please read this message carefully for details and instructions; if you fail to follow the instructions, we may NOT be able to provide registration or reimbursements.
 
@@ -12,7 +16,7 @@ I would like to thank everyone who applied and then scaled down their minimum re
 Reasons for Partial Funding
 ===========================
 
-Request amounts were revised in the following ways:
+Requested amounts were revised in the following ways:
 
 * All hotel rooms will be shared. By sharing hotel rooms, we are able to double the number of people we can help stay at PyCon.
 
@@ -30,7 +34,7 @@ Registration
 
 We will provide you with a free or reduced cost registration (depending on your award), rather than reimburse you for a paid registration. If you have already registered and paid, please email <pycon-aid@python.org> to arrange a refund.
 
-If your registration award is less than the $100 early bird student rate, you will be asked to pay for the remainder.
+Financial aid recipients are registered at the $100 early bird student rate. If your registration award is less than that amount, you will be asked to pay for the remainder.
 
 
 Hotel
