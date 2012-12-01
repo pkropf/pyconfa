@@ -23,12 +23,12 @@ The awards.private file in these examples should look like:
 
 To test generate grant letters:
 
-$ ./generate_award_messages.py awards.private -f letters.private/                       
+  $ ./generate_award_messages.py awards.private -f letters.private/                       
 
 
 To send test grant letters to a test email account
 
-$ ./generate_award_messages.py award.private -g GMAIL_USERNAME -p GMAIL_PASSWORD -t EMAIL_ADDRESS
+  $ ./generate_award_messages.py award.private -g GMAIL_USERNAME -p GMAIL_PASSWORD -t EMAIL_ADDRESS
 
 
 To send out grant letters:
